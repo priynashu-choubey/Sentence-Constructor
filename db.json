@@ -1,0 +1,79 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "sentence": "The _ cat _ on the mat.",
+            "options": [
+                "black",
+                "sat",
+                "dog",
+                "ran"
+            ],
+            "correctAnswer": [
+                "black",
+                "sat"
+            ],
+            "blanks": 2
+        },
+        {
+            "id": 2,
+            "sentence": "She _ to the _ every morning.",
+            "options": [
+                "walks",
+                "park",
+                "runs",
+                "store"
+            ],
+            "correctAnswer": [
+                "walks",
+                "park"
+            ],
+            "blanks": 2
+        },
+        {
+            "id": 3,
+            "sentence": "The _ _ through the forest.",
+            "options": [
+                "wind",
+                "blows",
+                "tree",
+                "grows"
+            ],
+            "correctAnswer": [
+                "wind",
+                "blows"
+            ],
+            "blanks": 2
+        },
+        {
+            "id": 4,
+            "sentence": "My favorite _ is _ in the garden.",
+            "options": [
+                "flower",
+                "growing",
+                "tree",
+                "planted"
+            ],
+            "correctAnswer": [
+                "flower",
+                "growing"
+            ],
+            "blanks": 2
+        },
+        {
+            "id": 5,
+            "sentence": "The _ _ over the mountain.",
+            "options": [
+                "eagle",
+                "soars",
+                "bird",
+                "flies"
+            ],
+            "correctAnswer": [
+                "eagle",
+                "soars"
+            ],
+            "blanks": 2
+        }
+    ]
+}
